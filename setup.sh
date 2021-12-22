@@ -3,6 +3,7 @@ apt-get update
 apt-get upgrade
 apt-get install python
 apt-get install python2
+apt-get install python3
 apt-get install figlet
 apt-get install toilet
 apt-get install cowsay
